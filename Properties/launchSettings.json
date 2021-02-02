@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MonteCarloUnitCircleSimulation": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    }
+  }
+}
